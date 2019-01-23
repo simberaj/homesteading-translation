@@ -1,5 +1,5 @@
 # homesteading-translation: překlad Kolíkování noosféry
-Překlad eseje *Homesteading the Noosphere* od Erica S. Raymonda z angličtiny do češtiny.
+[Překlad](/htn_cs.md) eseje *Homesteading the Noosphere* od Erica S. Raymonda z angličtiny do češtiny.
 
 Navazuje na autorovu předchozí esej *Katedrála a tržiště (The Cathedral and the Bazaar)*.
 

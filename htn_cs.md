@@ -6,30 +6,30 @@ Eric Steven Raymond, 2000
 
 Kdokoliv na internetu chvíli pozoruje živý a neuvěřitelně produktivní svět
 otevřeného *(open-source)* softwaru, nemůže si nevšimnout zajímavého nesouladu
-mezi tím, čemu open-source hackeři věří dle svého vlastního tvrzení, a tím,
-jak se skutečně chovají - mezi oficiální ideologií open-source kultury a tím,
-jak to vypadá v praxi.
+mezi tím, čemu hackeři otevřeného softwaru věří dle svého vlastního tvrzení,
+a tím, jak se skutečně chovají - mezi oficiální ideologií open-source kultury
+a tím, jak to vypadá v praxi.
 
-Každá kultura se neustále mění a přizpůsobuje okolnostem. Open-source kultura
-je odpovědí na určitou sadu potřeb a tlaků, a to se samozřejmě projevuje
-jednak jako vědomá ideologie, jednak jako implicitní, více či méně zpřítomněné
-povědomí. A jak se často stává, toto implicitní povědomí a explicitní ideologie
-jsou navzájem částečně v rozporu.
+Každá kultura se neustále mění a přizpůsobuje okolnostem. Kultura otevřeného
+softwaru je odpovědí na určitou sadu potřeb a tlaků, a to se samozřejmě
+projevuje jednak jako vědomá ideologie, jednak jako implicitní, více či méně
+zpřítomněné povědomí. A jak se často stává, toto implicitní povědomí a
+explicitní ideologie jsou navzájem částečně v rozporu.
 
 V tomto eseji se budu snažit poodhalit kořeny tohoto paradoxu a pomocí něj
-pojmenovat zmíněné potřeby a tlaky, které utvářejí open-source kulturu.
+pojmenovat zmíněné potřeby a tlaky, které utvářejí kulturu otevřeného softwaru.
 Odvodím několik zajímavostí o ní a jejích zvycích a skončím u návrhů,
 jak by se znalosti v ní implicitně obsažené daly lépe využít.
 
 ## Rozmanitost ideologie hackerů
 
-Ideologie internetové open-source kultury (čemu hackeři dle vlastních slov
-věří) je poměrně komplikovaná záležitost sama o sobě. Všichni její členové se
-shodují, že otevřený software (tedy software, který je volně šiřitelný a
+Ideologie internetové kultury otevřeného softwaru (čemu hackeři dle vlastních
+slov věří) je poměrně komplikovaná záležitost sama o sobě. Všichni její členové
+se shodují, že otevřený software (tedy software, který je volně šiřitelný a
 upravitelný a může se tak vyvíjet podle měnících se potřeb) je dobrá věc hodná
-společného snažení. Víra v tento předpoklad je úhelným kamenem open-source
-kultury, ale důvody, pro něž jednotlivci i různé subkultury tuto víru
-vyznávají, se často velmi liší.
+společného snažení. Víra v tento předpoklad je úhelným kamenem kultury
+otevřeného softwaru, ale důvody, pro něž jednotlivci i různé subkultury tuto
+víru vyznávají, se často velmi liší.
 
 Jedním z rozdílů je míra horlivosti - jestli vývoj otevřeného softwaru
 pokládají jen za zajímavý prostředek k dosažení cíle (dobré nástroje a zábavné
@@ -51,44 +51,46 @@ software jako takový je v pořádku, protože programátoři by měli dostat
 zaplaceno, ale firmy, které bohatnou na odfláknutých produktech a zneužívají
 svého postavení, jsou špatné." Člověk bez nepřátelství řekne: "Komerční
 software je v pořádku, otevřený software používám prostě proto, že mi vyhovuje
-víc." (A v poslední době - po vydání první verze tohoto eseje -, jak open
-source postupně získává v branži na významu, můžeme slyšet i "Komerční software
-je v pohodě, dokud k němu dostanu zdrojový kód nebo dělá to, co potřebuju.")
+víc." (A v poslední době - po vydání první verze tohoto eseje -, jak otevřený
+software postupně získává v branži na významu, můžeme slyšet i "Komerční
+software je v pohodě, dokud k němu dostanu zdrojový kód nebo dělá to, co
+potřebuju.")
 
-Každý z devíti názorů tvořených průnikem těchto dvou rozměrů lze nalézt v
-open-source kultuře. Má význam se věnovat jejich rozdílům, protože jejich
-zastánci sledují různé cíle, spolupracují různě a různě se přizpůsobují
+Každý z devíti názorů tvořených průnikem těchto dvou rozměrů lze v kultuře
+otevřeného softwaru nalézt. Má význam se věnovat jejich rozdílům, protože
+jejich zastánci sledují různé cíle, spolupracují různě a různě se přizpůsobují
 novým podmínkám.
 
 Historicky byla nejviditelnější a nejlépe organizovanou částí hackerské kultury
 ta horlivá a silně nepřátelská vůči komerci. Free Software Foundation, založená
 Richardem M. Stallmanem (RMS), stála od začátku osmdesátých let za velkým
 množstvím otevřených softwarových projektů, včetně nástrojů jako Emacs a GCC,
-které jsou stále základem internetového open-source světa a zdá se, že tomu
+které jsou stále základem světa otevřeného softwaru a zdá se, že tomu
 tak po určitou dobu zůstane.
 
-Po mnoho let byla FSF jediným a nejdůležitejším ohniskem aktivity open-source
-hackerů a vytvořila obrovské množství nástrojů, které jsou pro kulturu stále
-nezbytné. FSF byla také dlouho jediným institucionalizovaným podporovatelem
-otevřeného softwaru známým i mimo jeho kulturu. V podstatě určili význam
+Po mnoho let byla FSF jediným a nejdůležitejším ohniskem aktivity hackerů
+otevřeného softwaru a vytvořila obrovské množství nástrojů, které jsou pro
+kulturu stále nezbytné.
+FSF byla také dlouho jediným institucionalizovaným podporovatelem otevřeného
+softwaru známým i mimo jeho kulturu. V podstatě určili význam
 spojení "svobodný software" *(free software)* a úmyslně jej zaměřili
 konfrontačně (čemuž se nové označení "otevřený software" *(open source)* zrovna
 tak úmyslně vyhýbá).
 
-Z tohoto důvodu byla vně i uvnitř open-source kultury tendence ji
+Z tohoto důvodu byla vně i uvnitř kultury otevřeného softwaru tendence ji
 identifikovat s horlivostí a antikomerčním postojem FSF. RMS sám odmítá, že by
 byl proti komerci, ale jeho cíle tak chápe většina lidí, včetně mnoha jeho
 nejhlasitějších příznivců. Jasná a mohutná kampaň FSF na "zastavení křečkování
-softwaru" se nejvíce přiblížila k postavení ideologie hackerů a RMS k jejich
-ideovému vůdci.
+softwaru" se nejvíce přiblížila k postavení oficiální ideologie hackerů a RMS
+k jejich ideovému vůdci.
 
 Licenční podmínky FSF, *General Public License* (GPL), vyjadřují postoje FSF.
-V open-source světě jsou široce používané. V Metalabu (dříve Sunsite; *dnes
-ibiblio, předchůdce dnešního GitHubu, pozn. překl.*), největším a
+Ve světě otevřeného softwaru jsou široce používané. V Metalabu (dříve Sunsite;
+*dnes ibiblio, předchůdce dnešního GitHubu, pozn. překl.*), největším a
 nejpopulárnějším archivu softwaru v linuxovém světě, v červenci 1997 používala
 GPL zhruba polovina softwarových balíčků, které měly uvedeny licenční podmínky.
 *(Tato dominance se postupně snižuje, v roce 2015 používalo některou z variant
-GPL cca 20 % repozitářů na GitHubu.)*
+GPL cca 20 % repozitářů na GitHubu. Pozn. překl.)*
 
 Ale FSF nikdy nebyla jediným hráčem na scéně. V hackerské kultuře vždy
 existoval i tišší, méně konfrontační a komerci otevřenější proud. Tito
@@ -101,7 +103,7 @@ Postoje typického pragmatika jsou jen mírně zaměřené proti komerci a jeho
 hlavní výčitkou vůči korporátnímu světu není "křečkování" samo o sobě, jako
 spíše jeho perverzní odpor vůči přechodu na pokročilejší technologie kolem
 Unixu, otevřených standardů a otevřeného softwaru. Jestli pragmatik někoho
-nesnáší, je to -- spíše než všeobecně "křečci" -- král Kláda softwarového
+nesnáší, je to - spíše než všeobecně "křečci" - král Kláda softwarového
 establishmentu, dříve IBM, dnes Microsoft.
 
 Pro pragmatiky je GPL důležitá jako nástroj spíše než jako cíl. Nevidí její
@@ -140,10 +142,11 @@ kultuře využít tuto příležitost a přeznačit výsledky svého snažení z
 "svobodného softwaru" na "otevřený software" se setkala s okamžitým souhlasem,
 který všechny dotyčné překvapil.
 
-Přirozeným vývojem se v průběhu devadesátých let i pragmatická část open-source
-kultury postupně stávala polycentrickou. Z kořenů kolem Unixu a internetu
-začaly rašit nové nezávislé komunity s vlastní identitou a charismatickými
-vůdci. Z nich nejdůležitější po Linuxu byla subkultura kolem Perlu pod
+Přirozeným vývojem se v průběhu devadesátých let i pragmatická část kultury
+otevřeného softwaru postupně stávala polycentrickou.
+Z kořenů kolem Unixu a internetu začaly rašit nové nezávislé komunity s vlastní
+identitou a charismatickými vůdci.
+Z nich nejdůležitější po Linuxu byla subkultura kolem Perlu pod
 vedením Larryho Walla. Menší, ale stále významné proudy představovaly skupiny
 kolem Tcl Johna Osterhouta a Pythonu Guida van Rossuma. Všechny tři vyjádřily
 svou ideologickou nezávislost tvorbou svých vlastních licenčních podmínek
@@ -151,15 +154,15 @@ odlišných od GPL.
 
 ## Prostopášná teorie, puritánská praxe
 
-Napříč všemi těmito změnami ale zůstávala shoda na tom, co je svobodné software
-nebo otevřené software *(open-source)*. Nejvýraznější projev této shody můžeme
-nalézt v open-source licencích, kterých je mnoho, ale všechny mají zásadní
-společné prvky.
+Napříč všemi těmito změnami ale zůstávala shoda na tom, co svobodné software
+nebo otevřené software je. Nejvýraznější projev této shody můžeme
+nalézt v licencích otevřeného softwaru, kterých je mnoho, ale všechny mají
+zásadní společné prvky.
 
 V roce 1997 byly tyto prvky zformovány do Debian Free Software Guidelines
 a později do dokumentu Open Source Definition. Podle pravidel určených OSD
-musí open-source licence chránit bezvýhradní právo kohokoliv na úpravu
-otevřeného softwaru (a šíření těchto upravených verzí).
+musí licence otevřeného softwaru chránit bezvýhradní právo kohokoliv na jeho
+úpravu (a šíření těchto upravených verzí).
 
 Implicitním předpokladem OSD (a OSD-kompatibilních *(dnes OSI-kompatibilních,
 pozn. překl.)* licencí, např. GPL, BSD a perlovské Artistic License) je, že
@@ -177,8 +180,9 @@ většinou používají společný kód a mohou navzájem těžit ze svého výv
 nejde o plýtvání silami ani technicky, ani sociologicky, a nejsou tudíž vnímány
 jako fork.)
 
-Open-source licence forky nijak neomezují, a pseudo-forky už vůbec; vlastně by
-se dalo tvrdit, že obojí tiše podporují. V praxi jsou ale pseudo-forky běžné,
+Licence otevřeného softwaru forky nijak neomezují, a pseudo-forky už vůbec;
+vlastně by se dalo tvrdit, že obojí tiše podporují.
+V praxi jsou ale pseudo-forky běžné,
 zatímco k forkům prakticky vůbec nedochází. Rozdvojení velkých projektů je
 vzácné a téměř vždy je doprovází přejmenování a velká dávka veřejného
 sebeobhajování. Na příkladech jako např. rozdělení GNU Emacs/XEmacs, gcc/egcs
@@ -186,8 +190,9 @@ nebo rozpady různých následovníků BSD je viditelné, že si zakladatelé no
 větve byli vědomi toho, že porušují vcelku zásadní pravidlo své komunity.
 
 Ve skutečnosti (a navzdory teorii, že kdokoli se může hrabat v čemkoli) má
-open-source kultura vysoce vyvinutou, ale do značné míry nevědomky přijímanou
-sadu vlastnických zvyklostí. Tyto zvyklosti určují, kdo může software
+kultura otevřeného softwaru vysoce vyvinutou, ale do značné míry nevědomky
+přijímanou sadu vlastnických zvyklostí.
+Tyto zvyklosti určují, kdo může software
 upravovat, podmínky, za nichž je to možné, a především kdo má právo tyto
 upravené verze distribuovat zpět komunitě.
 
@@ -203,49 +208,51 @@ užitečné, když si zde některá důležitější shrneme:
 
 Ve zbytku tohoto eseje prozkoumáme tato tabu a vlastnické zvyklosti podrobněji.
 Budeme zkoumat nejen to, jak fungují, ale i co prozrazují o mezilidské dynamice
-a strukturách motivace v open-source komunitě.
+a strukturách motivace v komunitě otevřeného softwaru.
 
-## Vlastnictví a open-source
+## Vlastnictví a otevřený software
 
 Co znamená vlastnictví, pokud se dá majetek nekonečně množit, je vysoce tvárný
 a okolní kultura postrádá donucovací mocenské mechanismy i tlak vzácnosti
 zdrojů?
 
-V případě open-source kultury je toto vlastně jednoduchá otázka. Vlastníkem
-softwarového projektu je ten, kdo má výhradní právo, uznávané komunitou,
-rozšiřovat jeho upravené verze.
+V případě kultury otevřeného softwaru je toto vlastně jednoduchá otázka.
+Vlastníkem softwarového projektu je ten, kdo má komunitou uznávané výhradní
+právo rozšiřovat jeho upravené verze.
 
 (Při popisu "vlastnictví" budu nadále používat jednotné číslo, jako by všechny
 projekty byly vlastněny jednotlivcem; ale mělo by být jasné, že projekty mohou
 být vlastněny i skupinami. Na vnitřní dynamiku takových skupin se podíváme
 později.)
 
-Podle standardních open-source licencí jsou si všechny strany ve vývojové hře
-rovny; ale v praxi existuje široce uznávaný rozdíl mezi "oficiálními"
+Podle standardních licencí otevřeného softwaru jsou si všechny strany ve
+vývojové hře rovny;
+ale v praxi existuje široce uznávaný rozdíl mezi "oficiálními"
 záplatami, uznanými a integrovanými do vyvíjejícího se software veřejně
 uznanými udržovateli, a "divokými" *(rogue)* záplatami od třetích stran.
-Divoké záplaty jsou výjimečné a zpravidla jim málokdo věří (TODO ref RP).
+Divoké záplaty jsou výjimečné a zpravidla jim málokdo věří [RP].
 
 Je jednoduché dokázat, že veřejné šíření je tou zásadní otázkou. Zvyklosti
 vyzývají lidi, aby si software pro osobní účely upravili, pokud je to potřeba,
 a nijak nebrání šířit takto upravené verze v uzavřené uživatelské nebo
-vývojové skupině. Pouze pokud jsou úpravy uvolněny do celé open-source
-komunity a soupeří tak s originálem, nabývá vlastnictví na významu.
+vývojové skupině. Pouze pokud jsou úpravy uvolněny do celé komunity
+a soupeří tak s originálem, nabývá vlastnictví na významu.
 
-Obecně existují tři způsoby, jak se dostat k vlastnictví open-source projektu.
+Obecně existují tři způsoby, jak se dostat k vlastnictví projektu otevřeného
+softwaru.
 První a nejvíce očividná je jej založit. Pokud má projekt od svého založení
 pouze jednoho udržovatele a ten je stále aktivní, zvyklost vůbec nedovolí
 položit otázku, kdo jej vlastní.
 
-Druhou možností je předání od předchozího vlastníka -- tomu se někdy říká
+Druhou možností je předání od předchozího vlastníka - tomu se někdy říká
 "předání žezla" *(passing the baton)*. V komunitě se všeobecně ví, že
 vlastníci projektů mají povinnost je předat kompetentním následníkům, když už
 nejsou schopni nebo ochotni investovat čas do jejich vývoje nebo údržby.
 
 Je důležité, že v případě velkých projektů se toto předání kontroly zpravidla
-oznamuje s určitou mírou okázalosti. I když by bylo v open-source komunitě
-neslýchané, aby okolí zasahovalo do výběru následníka, zvyklosti jasně ukazují,
-že veřejná legitimita je důležitá.
+oznamuje s určitou mírou okázalosti. I když by bylo v komunitě otevřeného
+softwaru neslýchané, aby okolí zasahovalo do výběru následníka,
+zvyklosti jasně ukazují, že veřejná legitimita je důležitá.
 
 U menších projektů zpravidla postačí zmínit jejich předání v přiložené historii
 změn. Předpokládá se, že pokud původní vlastník ve skutečnosti nepředal projekt
@@ -280,19 +287,19 @@ z nejzajímavějších je to, že většina hackerů je dodržovala, aniž by si
 plně uvědomovala. Tato esej může být vlastně prvním místem, kde jsou tyto
 zvyklosti vcelku plně shrnuty a vědomě popsány.
 
-Další zajímavostí je to, že tyto zvyklosti -- na to, že jsou nevědomé -- jsou
+Další zajímavostí je to, že tyto zvyklosti - na to, že jsou nevědomé - jsou
 dodržovány pozoruhodně (až neuvěřitelně) spolehlivě. Pozoroval jsem vývoj
-doslova stovek open-source projektů a stále mohu spočítat výrazné odchylky,
+doslova stovek projektů a stále mohu spočítat výrazné odchylky,
 které jsem viděl nebo o nichž jsem slyšel, na prstech svých rukou.
 
 Třetí zajímavostí je, že tyto zvyklosti se v průběhu času vyvíjely stálým
-směrem -- k podpoře větší veřejné odpovědnosti a informovanosti a k větší
+směrem - k podpoře větší veřejné odpovědnosti a informovanosti a k větší
 péči o uchování historií změn projektů a autorů těchto změn způsobem, který
 (mimo jiné) podporuje legitimitu stávajících vlastníků.
 
 Tyto zajímavé vlastnosti napovídají, že nejde o náhodně vyvinuté zvyklosti,
-ale jsou výsledkem jakéhosi implicitního cíle nebo vzorce chování open-source
-kultury, který tvoří úplný základ jejího chování.
+ale jsou výsledkem jakéhosi implicitního cíle nebo vzorce chování v kultuře
+otevřeného softwaru, který tvoří úplný základ jejího chování.
 
 Jeden z prvních čtenářů tohoto eseje poukázal na to, že v porovnání kultury
 hackerů s kulturou crackerů/pirátů ("warez d00dz" uskupení kolem crackování
@@ -365,7 +372,7 @@ jestli noosféra ve Farého čistém pojetí vůbec smysluplně existuje; na to 
 noosférou a ergosférou z praktického hlediska důležitý pouze tehdy, když chceme
 zdůraznit, že nápady (prvky noosféry) nemohou být předmětem vlastnictví, ale
 jejich instance (projekty) vlastněny být mohou. To vede k otázkám ohledně
-duševního vlastnictví, které jsou mimo rámec tohoto eseje (ale viz [DF]).
+duševního vlastnictví, které jsou nad rámec tohoto eseje (ale viz [DF]).
 
 Pro ujasnění je důležité zdůraznit, že ani noosféra, ani ergosféra nejsou
 totožné s množinou všech virtuálních lokalit v elektronickém světě, která je
@@ -385,14 +392,15 @@ jej používat - něco, co by bylo zničeno forkováním. Pokud by šlo pouze o
 používání, tabu proti forkování by neexistovalo a vlastnictví otevřeného
 softwaru by v ničem nepřipomínalo vlastnictví půdy. Ve skutečnosti právě
 tento alternativní svět (v němž je možnost užívat jedinou výhodou a forkování
-není problém) předpokládají existující licence otevřeného softwaru.
+není problém) existující licence otevřeného softwaru předpokládají.
 
-Některé kandidáty na pozici tohoto zisku můžeme vyloučit rovnou. Protože přes
-síťové připojení nelze nikoho k ničemu nutit, zisk moci nedává smysl. Kultura
-otevřeného softwaru také nemá nic, co by se příliš podobalo penězům nebo
-vnitřní ekonomice nedostatku *(scarcity economy)*, takže hackeři nemohou ani
-cílit na nic příliš podobného hmotnému bohatství (ve smyslu hromadění vzácných
-věcí).
+Některé kandidáty na pozici tohoto motivujícího zisku můžeme vyloučit rovnou.
+Protože přes síťové připojení nelze nikoho k ničemu nutit, zisk moci nedává
+smysl.
+Kultura otevřeného softwaru také nemá nic, co by se příliš podobalo penězům
+nebo vnitřní ekonomice nedostatku *(scarcity economy)*, takže se hackeři ani
+nemohou hnát za ničím příliš podobným hmotnému bohatství (ve smyslu hromadění
+vzácných věcí).
 
 Jedním ale člověku aktivita kolem otevřeného softwaru materiálně pomoci může,
 a to způsobem, který pěkně odhaluje skutečnou motivaci k ní.

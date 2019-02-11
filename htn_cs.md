@@ -327,8 +327,9 @@ Podle této teorie je možné dospět k vlastnictví půdy třemi způsoby:
 - A konečně, anglosaské přirozené právo také uznává možnost, že půda
   o vlastníka přijde (například když zemře bez dědiců nebo chybí dokumenty,
   které by prokazovaly vlastnický nárok na opuštěnou půdu). Takovou půdu
-  může kdokoli získat vydržením - tím, že ji zabere, stará se o ni a brání svůj
-  nárok podobně jako v případě prvotního vykolíkování.
+  může kdokoli získat *vydržením (adverse posession)* - tím, že ji zabere,
+  stará se o ni a brání svůj nárok podobně jako v případě prvotního
+  vykolíkování.
 
 Tato teorie, podobně jako zvyky hackerů, se objevila přirozeně tam, kde chyběla
 centralizovaná moc nebo byla velmi slabá. Vyvinula se v průběhu tisíce let

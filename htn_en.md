@@ -35,26 +35,26 @@ One degree of variation is zealotry; whether open source development is
 regarded merely as a convenient means to an end (good tools and fun toys
 and an interesting game to play) or as an end in itself.
 
-A person of great zeal might say ``Free software is my life! I exist to
+A person of great zeal might say "Free software is my life! I exist to
 create useful, beautiful programs and information resources, and then give
-them away.'' A person of moderate zeal might say ``Open source is a good thing,
-which I am willing to spend significant time helping happen''. A person of
-little zeal might say ``Yes, open source is okay sometimes. I play with it
-and respect people who build it''.
+them away." A person of moderate zeal might say "Open source is a good thing,
+which I am willing to spend significant time helping happen." A person of
+little zeal might say "Yes, open source is okay sometimes. I play with it
+and respect people who build it."
 
 Another degree of variation is in hostility to commercial software and/or the
 companies perceived to dominate the commercial software market.
 
-A very anticommercial person might say ``Commercial software is theft and
-hoarding. I write free software to end this evil.'' A moderately anticommercial
-person might say ``Commercial software in general is OK because programmers
+A very anticommercial person might say "Commercial software is theft and
+hoarding. I write free software to end this evil." A moderately anticommercial
+person might say "Commercial software in general is OK because programmers
 deserve to get paid, but companies that coast on shoddy products and throw
-their weight around are evil.'' An un-anticommercial person might say
-``Commercial software is okay, I just use and/or write open-source software
-because I like it better''. (Nowadays, given the growth of the open-source part
+their weight around are evil." An un-anticommercial person might say
+"Commercial software is okay, I just use and/or write open-source software
+because I like it better." (Nowadays, given the growth of the open-source part
 of the industry since the first public version of this essay, one might also
-hear ``Commercial software is fine, as long as I get the source or it does
-what I want it to do.'')
+hear "Commercial software is fine, as long as I get the source or it does
+what I want it to do.")
 
 All nine of the attitudes implied by the cross-product of the categories
 mentioned earlier are represented in the open-source culture. It is worthwhile
@@ -72,18 +72,18 @@ For many years the FSF was the single most important focus of open-source
 hacking, producing a huge number of tools still critical to the culture. The
 FSF was also long the only sponsor of open source with an institutional
 identity visible to outside observers of the hacker culture. They effectively
-defined the term `free software', deliberately giving it a confrontational
-weight (which the newer label `open source' just as deliberately avoids).
+defined the term *free software*, deliberately giving it a confrontational
+weight (which the newer label *open source* just as deliberately avoids).
 
 Thus, perceptions of the hacker culture from both within and without it tended
 to identify the culture with the FSF's zealous attitude and perceived
 anticommercial aims. RMS himself denies he is anticommercial, but his program
 has been so read by most people, including many of his most vocal partisans.
-The FSF's vigorous and explicit drive to ``Stamp Out Software Hoarding!''
+The FSF's vigorous and explicit drive to "Stamp Out Software Hoarding!"
 became the closest thing to a hacker ideology, and RMS the closest thing to
 a leader of the hacker culture.
 
-The FSF's license terms, the ``General Public License'' (GPL), expresses the
+The FSF's license terms, the *General Public License* (GPL), expresses the
 FSF's attitudes. It is very widely used in the open-source world. North
 Carolina's Metalab (formerly Sunsite) is the largest and most popular software
 archive in the Linux world. In July 1997 about half the Sunsite software
@@ -97,15 +97,15 @@ traditions included, most importantly, the intertwined technical cultures of
 Unix and the pre-commercial Internet.
 
 The typical pragmatist attitude is only moderately anticommercial, and its
-major grievance against the corporate world is not `hoarding' per se. Rather
+major grievance against the corporate world is not "hoarding" per se. Rather
 it is that world's perverse refusal to adopt superior approaches incorporating
 Unix and open standards and open-source software. If the pragmatist hates
-anything, it is less likely to be `hoarders' in general than the current King
+anything, it is less likely to be "hoarders" in general than the current King
 Log of the software establishment; formerly IBM, now Microsoft.
 
 To pragmatists the GPL is important as a tool, rather than as an end in itself.
-Its main value is not as a weapon against `hoarding', but as a tool for
-encouraging software sharing and the growth of bazaar-modebazaar-mode
+Its main value is not as a weapon against "hoarding", but as a tool for
+encouraging software sharing and the growth of bazaar-mode
 development communities. The pragmatist values having good tools and toys more
 than he dislikes commercialism, and may use high-quality commercial software
 without ideological discomfort. At the same time, his open-source experience
@@ -130,15 +130,15 @@ culture.
 A side effect of the rapid growth of Linux was the induction of a large number
 of new hackers for which Linux was their primary loyalty and the FSF's agenda
 primarily of historical interest. Though the newer wave of Linux hackers might
-describe the system as ``the choice of a GNU generation'', most tended to
+describe the system as "the choice of a GNU generation", most tended to
 emulate Torvalds more than Stallman.
 
 Increasingly it was the anticommercial purists who found themselves in a
 minority. How much things had changed would not become apparent until the
 Netscape announcement in February 1998 that it would distribute Navigator 5.0
-in source. This excited more interest in `free software' within the corporate
+in source. This excited more interest in *free software* within the corporate
 world. The subsequent call to the hacker culture to exploit this unprecedented
-opportunity and to re-label its product from `free software' to `open source'
+opportunity and to re-label its product from *free software* to *open source*
 was met with a level of instant approval that surprised everybody involved.
 
 In a reinforcing development, the pragmatist part of the culture was itself
@@ -153,7 +153,7 @@ independence by devising their own, non-GPL licensing schemes.
 ## Promiscuous Theory, Puritan Practice
 
 Through all these changes, nevertheless, there remained a broad consensus
-theory of what `free software' or `open source' is. The clearest expression
+theory of what "free software" or "open source" is. The clearest expression
 of this common theory can be found in the various open-source licenses, all
 of which have crucial common elements.
 
@@ -198,7 +198,8 @@ The taboos of a culture throw its norms into sharp relief. Therefore, it will
 be useful later on if we summarize some important ones here:
 
 - There is strong social pressure against forking projects. It does not happen
-  except under plea of dire necessity, with much public self-justification, and requires a renaming.
+  except under plea of dire necessity, with much public self-justification, and
+  requires a renaming.
 - Distributing changes to a project without the cooperation of the moderators
   is frowned upon, except in special cases like essentially trivial porting
   fixes.
@@ -212,7 +213,7 @@ the open-source community.
 
 ## Ownership and Open Source
 
-What does `ownership' mean when property is infinitely reduplicable, highly
+What does "ownership" mean when property is infinitely reduplicable, highly
 malleable, and the surrounding culture has neither coercive power relationships
 nor material scarcity economics?
 
@@ -220,15 +221,15 @@ Actually, in the case of the open-source culture this is an easy question to
 answer. The owner of a software project is the person who has the exclusive
 right, recognized by the community at large, to distribute modified versions.
 
-(In discussing `ownership' in this section I will use the singular, as though
+(In discussing "ownership" in this section I will use the singular, as though
 all projects are owned by some one person. It should be understood, however,
 that projects may be owned by groups. We shall examine the internal dynamics
 of such groups later on.)
 
 According to the standard open-source licenses, all parties are equals in the
 evolutionary game. But in practice there is a very well-recognized distinction
-between `official' patches, approved and integrated into the evolving software
-by the publicly recognized maintainers, and `rogue' patches by third parties.
+between "official" patches, approved and integrated into the evolving software
+by the publicly recognized maintainers, and "rogue" patches by third parties.
 Rogue patches are unusual, and generally not trusted [RP].
 
 That public redistribution is the fundamental issue is easy to establish.
@@ -307,7 +308,127 @@ some kind of implicit agenda or generative pattern in the open-source culture
 that is utterly fundamental to the way it operates.
 
 An early respondent pointed out that contrasting the Internet hacker culture
-with the cracker/pirate culture (the ``warez d00dz'' centered around
+with the cracker/pirate culture (the "warez d00dz" centered around
 game-cracking and pirate bulletin-board systems) illuminates the generative
-patterns of both rather well. We'll return to the d00dz for contrast later 
+patterns of both rather well. We'll return to the d00dz for contrast later
 in this essay.
+
+
+## Locke and Land Title
+
+To understand this generative pattern, it helps to notice a historical analogy
+for these customs that is far outside the domain of hackers' usual concerns.
+As students of legal history and political philosophy may recognize, the theory
+of property they imply is virtually identical to the Anglo-American common-law
+theory of land tenure!
+
+In this theory, there are three ways to acquire ownership of land:
+
+- On a frontier, where land exists that has never had an owner, one can acquire
+ownership by homesteading, mixing one's labor with the unowned land, fencing
+it, and defending one's title.
+
+The usual means of transfer in settled areas is transfer of title—that is,
+receiving the deed from the previous owner. In this theory, the concept of
+*chain of title* is important. The ideal proof of ownership is a chain of deeds
+and transfers extending back to when the land was originally homesteaded.
+
+Finally, the common-law theory recognizes that land title may be lost or
+abandoned (for example, if the owner dies without heirs, or the records needed
+to establish chain of title to vacant land are gone). A piece of land that has
+become derelict in this way may be claimed by adverse possession—one moves in,
+improves it, and defends title as if homesteading.
+
+This theory, like hacker customs, evolved organically in a context where
+central authority was weak or nonexistent. It developed over a period of
+a thousand years from Norse and Germanic tribal law. Because it was
+systematized and rationalized in the early modern era by the English political
+philosopher John Locke, it is sometimes referred to as the Lockean theory of
+property.
+
+Logically similar theories have tended to evolve wherever property has high
+economic or survival value and no single authority is powerful enough to force
+central allocation of scarce goods. This is true even in the hunter-gatherer
+cultures that are sometimes romantically thought to have no concept
+of "property". For example, in the traditions of the !Kung San bushmen
+of the Kgalagadi (formerly *Kalahari*) Desert, there is no ownership of hunting
+grounds. But there is ownership of waterholes and springs under a theory
+recognizably akin to Locke's.
+
+The !Kung San example is instructive, because it shows that Lockean property
+customs arise only where the expected return from the resource exceeds the
+expected cost of defending it. Hunting grounds are not property because the
+return from hunting is highly unpredictable and variable, and (although highly
+prized) not a necessity for day-to-day survival. Waterholes, on the other hand,
+are vital to survival and small enough to defend.
+
+The *noosphere* of this essay's title is the territory of ideas, the space of
+all possible thoughts [N]. What we see implied in hacker ownership customs is
+a Lockean theory of property rights in one subset of the noosphere, the space
+of all programs. Hence *homesteading the noosphere*, which is what every
+founder of a new open-source project does.
+
+Faré Rideau <fare@tunes.org> correctly points out that hackers do not exactly
+operate in the territory of pure ideas. He asserts that what hackers own is
+programming projects—intensional focus points of material labor (development,
+service, etc), to which are associated things like reputation, trustworthiness,
+etc. He therefore asserts that the space spanned by hacker projects, is not the
+noosphere but a sort of dual of it, the space of noosphere-exploring program
+projects. (With an apologetic nod to the astrophysicists out there, it would
+be etymologically correct to call this dual space the *ergosphere* or
+"sphere of work".)
+
+In practice, the distinction between noosphere and ergosphere is not important
+for the purposes of our present argument. It is dubious whether the *noosphere*
+in the pure sense on which Faré insists can be said to exist in any meaningful
+way; one would almost have to be a Platonic philosopher to believe in it. And
+the distinction between noosphere and ergosphere is only of practical
+importance if one wishes to assert that ideas (the elements of the noosphere)
+cannot be owned, but their instantiations as projects can. This question leads
+to issues in the theory of intellectual property which are beyond the scope
+of this essay (but see [DF]).
+
+To avoid confusion, however, it is important to note that neither the noosphere
+nor the ergosphere is the same as the totality of virtual locations
+in electronic media that is sometimes (to the disgust of most hackers)
+called *cyberspace*. Property there is regulated by completely different rules
+that are closer to those of the material substratum - essentially, he who owns
+the media and machines on which a part of *cyberspace* is hosted owns that
+piece of cyberspace as a result.
+
+The Lockean logic of custom suggests strongly that open-source hackers observe
+the customs they do in order to defend some kind of expected return from their
+effort. The return must be more significant than the effort of homesteading
+projects, the cost of maintaining version histories that document
+*chain of title*, and the time cost of making public notifications and waiting
+before taking adverse possession of an orphaned project.
+
+Furthermore, the "yield" from open source must be something more than simply
+the use of the software, something else that would be compromised or diluted
+by forking. If use were the only issue, there would be no taboo against
+forking, and open-source ownership would not resemble land tenure at all.
+In fact, this alternate world (where use is the only yield, and forking is
+unproblematic) is the one implied by existing open-source licenses.
+
+We can eliminate some candidate kinds of yield right away. Because you can't
+coerce effectively over a network connection, seeking power is right out.
+Likewise, the open-source culture doesn't have anything much resembling money
+or an internal scarcity economy, so hackers cannot be pursuing anything very
+closely analogous to material wealth (e.g. the accumulation of scarcity
+tokens).
+
+There is one way that open-source activity can help people become wealthier,
+however - a way that provides a valuable clue to what actually motivates it.
+Occasionally, the reputation one gains in the hacker culture can spill over
+into the real world in economically significant ways. It can get you a better
+job offer, or a consulting contract, or a book deal.
+
+This kind of side effect, however, is at best rare and marginal for most
+hackers; far too much so to make it convincing as a sole explanation, even
+if we ignore the repeated protestations by hackers that they're doing what
+they do not for money but out of idealism or love.
+
+However, the way such economic side effects are mediated is worth examination.
+Next we'll see that an understanding of the dynamics of reputation within
+the open-source culture itself has considerable explanatory power.
+

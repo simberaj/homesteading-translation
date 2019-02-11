@@ -147,7 +147,7 @@ vůdci. Z nich nejdůležitější po Linuxu byla subkultura kolem Perlu pod
 vedením Larryho Walla. Menší, ale stále významné proudy představovaly skupiny
 kolem Tcl Johna Osterhouta a Pythonu Guida van Rossuma. Všechny tři vyjádřily
 svou ideologickou nezávislost tvorbou svých vlastních licenčních podmínek
-odlišných od GPL. 
+odlišných od GPL.
 
 ## Prostopášná teorie, puritánská praxe
 
@@ -298,3 +298,113 @@ Jeden z prvních čtenářů tohoto eseje poukázal na to, že v porovnání kul
 hackerů s kulturou crackerů/pirátů ("warez d00dz" uskupení kolem crackování
 her a pirátských fór) velmi dobře vyniknou vzorce chování obou těchto skupin.
 K d00dz se v tomto eseji ještě později pro porovnání vrátíme.
+
+
+## Locke a vlastnictví půdy
+Pro pochopení vzorců a zvyků, podle nichž se kultura otevřeného softwaru chová,
+je užitečné si všimnout historické podobnosti s fenoménem na hony vzdáleným
+oblasti, kterou se hackeři obvykle zabývají. Jak si mohou všimnout studenti
+právní historie a politické filozofie, teorie vlastnictví, jíž se řídí, je
+téměř shodná s anglosaskou přirozenoprávní teorií vlastnictví půdy!
+
+Podle této teorie je možné dospět k vlastnictví půdy třemi způsoby:
+
+- Na hranici známého světa, kde půda ještě nikdy žádného vlastníka neměla, může
+  každý získat půdu tak, že ji zabere (vykolíkuje), obhospodařuje ji, vkládá
+  do ni svou práci a brání svoje právo ji vlastnit.
+- V osídlených oblastech je obvyklým způsobem převod vlastnictví - tedy zisk
+  práva k půdě jeho přenosem od předchozího vlastníka. Podle této teorie je
+  koncept *řetězce vlastnictví* podstatný; ideálním důkazem vlastnictví půdy je
+  takový řetězec převodů, který vede zpět v čase až k okamžiku, kdy byla půda
+  původně zabrána.
+- A konečně, anglosaské přirozené právo také uznává možnost, že půda
+  o vlastníka přijde (například když zemře bez dědiců nebo chybí dokumenty,
+  které by prokazovaly vlastnický nárok na opuštěnou půdu). Takovou půdu
+  může kdokoli získat vydržením - tím, že ji zabere, stará se o ni a brání svůj
+  nárok podobně jako v případě prvotního vykolíkování.
+
+Tato teorie, podobně jako zvyky hackerů, se objevila přirozeně tam, kde chyběla
+centralizovaná moc nebo byla velmi slabá. Vyvinula se v průběhu tisíce let
+z norského a germánského kmenového práva. V moderní době ji systematizoval
+a zdůvodnil anglický politický filozof John Locke, a proto se dnes často
+nazývá lockeovskou teorií vlastnictví.
+
+Logicky se podobné koncepty vyvíjejí všude tam, kde má majetek velký význam pro
+přežití nebo prosperitu a neexistuje žádný jednotný aparát dostatečně silný
+na to, aby vynutil centralizované přerozdělování vzácných statků. To platí i
+v kulturách lovců a sběračů, o kterých se často romanticky říká, že neznají
+koncept vlastnictví. Například v tradicích Křováků !Kung San žijících v poušti
+Kalahari sice neexistuje vlastnictví lovišť, ale vlastnictví napajedel a
+pramenů funguje podle podobných zákonitostí jako u Lockeho.
+
+Příklad s kmenem !Kung San je zajímavý, protože ukazuje, že lockeovské
+vlastnictví vzniká pouze tam, kde lze ze zdroje očekávat větší výnos, než kolik
+je potřeba na jeho obranu. Loviště nejsou předmětem vlastnictví, protože výnos
+z lovu je vysoce nepředvídatelný a proměnlivý, a i když je vysoce ceněn, není
+zásadní pro každodenní přežití. Napajedla jsou oproti tomu pro přežití klíčová
+a dost malá na to, aby se dala bránit.
+
+Noosféra z názvu tohoto eseje je územím myšlenek, prostorem všech myslitelných
+nápadů [N]. Ve vlastnických zvycích hackerů vidíme lockeovskou teorii
+vlastnictví aplikovanou na jednu z oblastí noosféry, prostor všech myslitelných
+programů. Proto i "kolíkování noosféry" - přesně to provádí každý, kdo zakládá
+nový open-source projekt.
+
+Faré Rideau <fare@tunes.org> správně poznamenává, že hackeři se nepohybují
+výlučně ve sféře nápadů. Tvrdí, že předmětem vlastnictví jsou ve skutečnosti
+programovací projekty - ohniska, v nichž se soustřeďuje práce (vývoj, údržba,
+atd.) a na něž jsou navázány koncepty jako reputace, důvěra a podobně.
+Vyvozuje z toho, že prostor hackerských projektů není částí noosféry,
+ale v jistém smyslu jejím duálem, prostorem programovacích projektů, které
+objevují noosféru. (S omluvou astrofyzikům by tak bylo korektní nazývat tento
+duální prostor *ergosférou* neboli prostorem práce.)
+
+V praxi pro nás není rozdíl mezi noosférou a ergosférou důležitý. Je otázkou,
+jestli noosféra ve Farého čistém pojetí vůbec smysluplně existuje; na to by
+člověk pomalu potřeboval být platónským filozofem. Navíc je rozdíl mezi
+noosférou a ergosférou z praktického hlediska důležitý pouze tehdy, když chceme
+zdůraznit, že nápady (prvky noosféry) nemohou být předmětem vlastnictví, ale
+jejich instance (projekty) vlastněny být mohou. To vede k otázkám ohledně
+duševního vlastnictví, které jsou mimo rámec tohoto eseje (ale viz [DF]).
+
+Pro ujasnění je důležité zdůraznit, že ani noosféra, ani ergosféra nejsou
+totožné s množinou všech virtuálních lokalit v elektronickém světě, která je
+občas (k nechuti většiny hackerů) nazývána *kyberprostorem*.
+Vlastnictví v této sféře se řídí úplně jinými pravidly, které jsou podstatně
+bližší těm z hmotného světa - kdo vlastní zařízení, na němž je část
+kyberprostoru uložena, vlastní i tuto část kyberprostoru.
+
+Lockeho zvyková teorie naznačuje, že hackeři otevřeného softwaru dodržují své
+zvyky proto, aby si zajistili, že jim jejich úsilí přinese jistý prospěch.
+Tento prospěch musí být významnější než práce, kterou vynaloží na kolíkování
+projektu, na udržování historie změn dokládajících řetězec vlastnictví a
+na čas věnovaný veřejnému oznámení a čekání, než se ujmou osiřelého projektu.
+
+"Zisk" z vývoje otevřeného softwaru musí být také něco více než prostá možnost
+jej používat, něco, co by bylo zničeno forkováním. Pokud by šlo pouze o
+používání, tabu proti forkování by neexistovalo a vlastnictví otevřeného
+softwaru by v ničem nepřipomínalo vlastnictví půdy. Ve skutečnosti právě
+tento alternativní svět (v němž je možnost užívat jedinou výhodou a forkování
+není problém) předpokládají existující licence otevřeného softwaru.
+
+Některé kandidáty na pozici tohoto zisku můžeme vyloučit rovnou. Protože přes
+síťové připojení nelze nikoho k ničemu nutit, zisk moci nedává smysl. Kultura
+otevřeného softwaru také nemá nic, co by se příliš podobalo penězům nebo
+vnitřní ekonomice nedostatku *(scarcity economy)*, takže hackeři nemohou ani
+cílit na nic příliš podobného hmotnému bohatství (ve smyslu hromadění vzácných
+věcí).
+
+Jedním ale člověku aktivita kolem otevřeného softwaru materiálně pomoci může,
+a to způsobem, který pěkně odhaluje skutečnou motivaci k ní.
+Občas může pověst, kterou člověk získá v hackerské kultuře, přetéct i do
+reálného světa s materiálně zajímavými důsledky - může pomoci získat lepší
+práci, smlouvu na konzultační služby nebo psaní knih.
+
+Tento vedlejší účinek je však pro většinu hackerů přinejlepším okrajový a
+vzácný; příliš na to, aby byl přesvědčivý jako jediné vysvětlení, i když budeme
+ignorovat opakovaná prohlášení hackerů, že to dělají ne pro peníze, nýbrž
+z idealismu nebo lásky.
+
+Cesta, kterou se člověk k těmto vedlejším materiálním účinkům dostane, je však
+hodna hlubšího zkoumání. Dále uvidíme, že pochopení dynamiky pověsti v rámci
+kultury otevřeného softwaru má pro porozumění klíčový význam.

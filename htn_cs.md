@@ -11,10 +11,10 @@ jak se skutečně chovají - mezi oficiální ideologií open-source kultury a t
 jak to vypadá v praxi.
 
 Každá kultura se neustále mění a přizpůsobuje okolnostem. Open-source kultura
-je odpovědí na určitou sadu potřeb a tlaků; a jako obvykle, to, jak se tato
-kultura přizpůsobila okolnostem, se projevuje jak jako vědomá ideologie,
-tak jako implicitní, více či méně zpřítomněné povědomí. A jak se často stává,
-toto povědomí a ideologie jsou částečně v rozporu.
+je odpovědí na určitou sadu potřeb a tlaků, a to se samozřejmě projevuje
+jednak jako vědomá ideologie, jednak jako implicitní, více či méně zpřítomněné
+povědomí. A jak se často stává, toto implicitní povědomí a explicitní ideologie
+jsou navzájem částečně v rozporu.
 
 V tomto eseji se budu snažit poodhalit kořeny tohoto paradoxu a pomocí něj
 pojmenovat zmíněné potřeby a tlaky, které utvářejí open-source kulturu.
@@ -303,18 +303,18 @@ K d00dz se v tomto eseji ještě později pro porovnání vrátíme.
 ## Locke a vlastnictví půdy
 Pro pochopení vzorců a zvyků, podle nichž se kultura otevřeného softwaru chová,
 je užitečné si všimnout historické podobnosti s fenoménem na hony vzdáleným
-oblasti, kterou se hackeři obvykle zabývají. Jak si mohou všimnout studenti
-právní historie a politické filozofie, teorie vlastnictví, jíž se řídí, je
-téměř shodná s anglosaskou přirozenoprávní teorií vlastnictví půdy!
+oblasti, kterou se hackeři obvykle zabývají. Studenti právní historie a
+politické filozofie rychle poznají, že koncept vlastnictví, jímž se řídí, je
+téměř shodný s anglosaskou přirozenoprávní teorií vlastnictví půdy!
 
 Podle této teorie je možné dospět k vlastnictví půdy třemi způsoby:
 
 - Na hranici známého světa, kde půda ještě nikdy žádného vlastníka neměla, může
   každý získat půdu tak, že ji zabere (vykolíkuje), obhospodařuje ji, vkládá
   do ni svou práci a brání svoje právo ji vlastnit.
-- V osídlených oblastech je obvyklým způsobem převod vlastnictví - tedy zisk
+- V osídlených oblastech je obvyklý převod vlastnictví - tedy zisk
   práva k půdě jeho přenosem od předchozího vlastníka. Podle této teorie je
-  koncept *řetězce vlastnictví* podstatný; ideálním důkazem vlastnictví půdy je
+  podstatný koncept *řetězce vlastnictví*; ideálním důkazem vlastnictví půdy je
   takový řetězec převodů, který vede zpět v čase až k okamžiku, kdy byla půda
   původně zabrána.
 - A konečně, anglosaské přirozené právo také uznává možnost, že půda
@@ -341,8 +341,8 @@ Příklad s kmenem !Kung San je zajímavý, protože ukazuje, že lockeovské
 vlastnictví vzniká pouze tam, kde lze ze zdroje očekávat větší výnos, než kolik
 je potřeba na jeho obranu. Loviště nejsou předmětem vlastnictví, protože výnos
 z lovu je vysoce nepředvídatelný a proměnlivý, a i když je vysoce ceněn, není
-zásadní pro každodenní přežití. Napajedla jsou oproti tomu pro přežití klíčová
-a dost malá na to, aby se dala bránit.
+zásadní pro každodenní přežití. Zdroje vody jsou oproti tomu pro přežití
+klíčové a dost malé na to, aby se daly bránit.
 
 Noosféra z názvu tohoto eseje je územím myšlenek, prostorem všech myslitelných
 nápadů [N]. Ve vlastnických zvycích hackerů vidíme lockeovskou teorii
@@ -354,12 +354,12 @@ Faré Rideau <fare@tunes.org> správně poznamenává, že hackeři se nepohybuj
 výlučně ve sféře nápadů. Tvrdí, že předmětem vlastnictví jsou ve skutečnosti
 programovací projekty - ohniska, v nichž se soustřeďuje práce (vývoj, údržba,
 atd.) a na něž jsou navázány koncepty jako reputace, důvěra a podobně.
-Vyvozuje z toho, že prostor hackerských projektů není částí noosféry,
-ale v jistém smyslu jejím duálem, prostorem programovacích projektů, které
-objevují noosféru. (S omluvou astrofyzikům by tak bylo korektní nazývat tento
+Vyvozuje z toho, že hackerské projekty netvoří část noosféry,
+ale v jistém smyslu její duál, prostor programovacích projektů, které
+noosféru zkoumají. (S omluvou astrofyzikům by tak bylo korektní nazývat tento
 duální prostor *ergosférou* neboli prostorem práce.)
 
-V praxi pro nás není rozdíl mezi noosférou a ergosférou důležitý. Je otázkou,
+V našem případě není rozdíl mezi noosférou a ergosférou důležitý. Je otázkou,
 jestli noosféra ve Farého čistém pojetí vůbec smysluplně existuje; na to by
 člověk pomalu potřeboval být platónským filozofem. Navíc je rozdíl mezi
 noosférou a ergosférou z praktického hlediska důležitý pouze tehdy, když chceme
@@ -377,11 +377,11 @@ kyberprostoru uložena, vlastní i tuto část kyberprostoru.
 Lockeho zvyková teorie naznačuje, že hackeři otevřeného softwaru dodržují své
 zvyky proto, aby si zajistili, že jim jejich úsilí přinese jistý prospěch.
 Tento prospěch musí být významnější než práce, kterou vynaloží na kolíkování
-projektu, na udržování historie změn dokládajících řetězec vlastnictví a
-na čas věnovaný veřejnému oznámení a čekání, než se ujmou osiřelého projektu.
+projektu a na udržování historie změn dokládajících řetězec vlastnictví, a
+než čas věnovaný veřejnému oznámení a čekání, než se ujmou osiřelého projektu.
 
 "Zisk" z vývoje otevřeného softwaru musí být také něco více než prostá možnost
-jej používat, něco, co by bylo zničeno forkováním. Pokud by šlo pouze o
+jej používat - něco, co by bylo zničeno forkováním. Pokud by šlo pouze o
 používání, tabu proti forkování by neexistovalo a vlastnictví otevřeného
 softwaru by v ničem nepřipomínalo vlastnictví půdy. Ve skutečnosti právě
 tento alternativní svět (v němž je možnost užívat jedinou výhodou a forkování
@@ -406,5 +406,6 @@ ignorovat opakovaná prohlášení hackerů, že to dělají ne pro peníze, ný
 z idealismu nebo lásky.
 
 Cesta, kterou se člověk k těmto vedlejším materiálním účinkům dostane, je však
-hodna hlubšího zkoumání. Dále uvidíme, že pochopení dynamiky pověsti v rámci
-kultury otevřeného softwaru má pro porozumění klíčový význam.
+hodna hlubšího zkoumání. V dalších částech uvidíme, že pochopení dynamiky
+pověsti v rámci kultury otevřeného softwaru má pro porozumění jejím zvykům
+samo o sobě značný význam.

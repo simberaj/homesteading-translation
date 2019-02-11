@@ -62,18 +62,18 @@ jejich zastánci sledují různé cíle, spolupracují různě a různě se při
 novým podmínkám.
 
 Historicky byla nejviditelnější a nejlépe organizovanou částí hackerské kultury
-ta horlivá a silně nepřátelská vůči komerci. Free Software Foundation, založená
-Richardem M. Stallmanem (RMS), stála od začátku osmdesátých let za velkým
-množstvím otevřených softwarových projektů, včetně nástrojů jako Emacs a GCC,
-které jsou stále základem světa otevřeného softwaru a zdá se, že tomu
+ta horlivá a silně nepřátelská vůči komerci. Nadace Free Software Foundation,
+založená Richardem M. Stallmanem (RMS), stála od začátku osmdesátých let za
+velkým množstvím otevřených softwarových projektů, včetně nástrojů jako Emacs
+a GCC, které jsou stále základem světa otevřeného softwaru a zdá se, že tomu
 tak po určitou dobu zůstane.
 
 Po mnoho let byla FSF jediným a nejdůležitejším ohniskem aktivity hackerů
 otevřeného softwaru a vytvořila obrovské množství nástrojů, které jsou pro
 kulturu stále nezbytné.
 FSF byla také dlouho jediným institucionalizovaným podporovatelem otevřeného
-softwaru známým i mimo jeho kulturu. V podstatě určili význam
-spojení "svobodný software" *(free software)* a úmyslně jej zaměřili
+softwaru známým i mimo jeho kulturu. V podstatě určila význam
+spojení "svobodný software" *(free software)* a úmyslně jej zaměřila
 konfrontačně (čemuž se nové označení "otevřený software" *(open source)* zrovna
 tak úmyslně vyhýbá).
 
@@ -202,7 +202,7 @@ užitečné, když si zde některá důležitější shrneme:
 - Existuje silný společenský tlak odrazující od forkování projektů. Stává se to
   jen ze zoufalé potřeby, po důkladném sebeobhájení, a nutné je nové jméno.
 - Rozšiřování změn v projektu bez spolupráce s jeho moderátory se potkává s
-  odsouzením vyjma speciálních případů, např. úprav umožňujících port.
+  odsouzením, vyjma speciálních případů, např. úprav umožňujících port.
 - Bez výslovného souhlasu dotyčného se nikdy nemažou jména z historie projektu
   nebo seznamu přispěvatelů a udržovatelů *(maintainers)*.
 

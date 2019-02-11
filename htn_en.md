@@ -325,19 +325,20 @@ theory of land tenure!
 In this theory, there are three ways to acquire ownership of land:
 
 - On a frontier, where land exists that has never had an owner, one can acquire
-ownership by homesteading, mixing one's labor with the unowned land, fencing
-it, and defending one's title.
+  ownership by homesteading, mixing one's labor with the unowned land, fencing
+  it, and defending one's title.
 
-The usual means of transfer in settled areas is transfer of title—that is,
-receiving the deed from the previous owner. In this theory, the concept of
-*chain of title* is important. The ideal proof of ownership is a chain of deeds
-and transfers extending back to when the land was originally homesteaded.
+- The usual means of transfer in settled areas is transfer of title—that is,
+  receiving the deed from the previous owner. In this theory, the concept of
+  *chain of title* is important. The ideal proof of ownership is a chain of
+  deeds and transfers extending back to when the land was originally
+  homesteaded.
 
-Finally, the common-law theory recognizes that land title may be lost or
-abandoned (for example, if the owner dies without heirs, or the records needed
-to establish chain of title to vacant land are gone). A piece of land that has
-become derelict in this way may be claimed by adverse possession—one moves in,
-improves it, and defends title as if homesteading.
+- Finally, the common-law theory recognizes that land title may be lost or
+  abandoned (for example, if the owner dies without heirs, or the records
+  needed to establish chain of title to vacant land are gone). A piece of land
+  that has become derelict in this way may be claimed by adverse possession -
+  one moves in, improves it, and defends title as if homesteading.
 
 This theory, like hacker customs, evolved organically in a context where
 central authority was weak or nonexistent. It developed over a period of

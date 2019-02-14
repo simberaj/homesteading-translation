@@ -399,9 +399,9 @@ Některé kandidáty na pozici tohoto motivujícího zisku můžeme vyloučit ro
 Protože přes síťové připojení nelze nikoho k ničemu nutit, zisk moci nedává
 smysl.
 Kultura otevřeného softwaru také nemá nic, co by se příliš podobalo penězům
-nebo vnitřní ekonomice nedostatku *(scarcity economy)*, takže se hackeři ani
-nemohou hnát za ničím příliš podobným hmotnému bohatství (ve smyslu hromadění
-vzácných věcí).
+nebo vnitřní ekonomice založené na nedostatku *(scarcity economy)*,
+takže se hackeři ani nemohou hnát za ničím příliš podobným hmotnému bohatství
+(ve smyslu hromadění vzácných věcí).
 
 Jedním ale člověku aktivita kolem otevřeného softwaru materiálně pomoci může,
 a to způsobem, který pěkně odhaluje skutečnou motivaci k ní.

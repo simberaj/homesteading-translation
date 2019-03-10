@@ -2,6 +2,7 @@
 
 Eric Steven Raymond, 2000
 
+
 ## Paradox na úvod
 
 Kdokoliv na internetu chvíli pozoruje živý a neuvěřitelně produktivní svět
@@ -20,6 +21,7 @@ V tomto eseji se budu snažit poodhalit kořeny tohoto paradoxu a pomocí něj
 pojmenovat zmíněné potřeby a tlaky, které utvářejí kulturu otevřeného softwaru.
 Odvodím několik zajímavostí o ní a jejích zvycích a skončím u návrhů,
 jak by se znalosti v ní implicitně obsažené daly lépe využít.
+
 
 ## Rozmanitost ideologie hackerů
 
@@ -152,6 +154,7 @@ kolem Tcl Johna Osterhouta a Pythonu Guida van Rossuma. Všechny tři vyjádřil
 svou ideologickou nezávislost tvorbou svých vlastních licenčních podmínek
 odlišných od GPL.
 
+
 ## Prostopášná teorie, puritánská praxe
 
 Napříč všemi těmito změnami ale zůstávala shoda na tom, co svobodné software
@@ -209,6 +212,7 @@ užitečné, když si zde některá důležitější shrneme:
 Ve zbytku tohoto eseje prozkoumáme tato tabu a vlastnické zvyklosti podrobněji.
 Budeme zkoumat nejen to, jak fungují, ale i co prozrazují o mezilidské dynamice
 a strukturách motivace v komunitě otevřeného softwaru.
+
 
 ## Vlastnictví a otevřený software
 
@@ -308,6 +312,7 @@ K d00dz se v tomto eseji ještě později pro porovnání vrátíme.
 
 
 ## Locke a vlastnictví půdy
+
 Pro pochopení vzorců a zvyků, podle nichž se kultura otevřeného softwaru chová,
 je užitečné si všimnout historické podobnosti s fenoménem na hony vzdáleným
 oblasti, kterou se hackeři obvykle zabývají. Studenti právní historie a
@@ -416,5 +421,80 @@ z idealismu nebo lásky.
 
 Cesta, kterou se člověk k těmto vedlejším materiálním účinkům dostane, je však
 hodna hlubšího zkoumání. V dalších částech uvidíme, že pochopení dynamiky
-pověsti v rámci kultury otevřeného softwaru má pro porozumění jejím zvykům
+reputace v rámci kultury otevřeného softwaru má pro porozumění jejím zvykům
 samo o sobě značný význam.
+
+
+## Hackerské společenství jako darovací kultura
+
+Pro pochopení role, kterou v kultuře otevřeného softwaru hraje pověst
+jednotlivce, je užitečné se od historie dále posunout k antropologii a
+ekonomii a prozkoumat rozdíl mezi výměnnými a darovacími kulturami.
+
+Lidé mají vrozený pud soupeřit o společenské postavení; je to zadrátováno
+v historii člověka jako druhu. V jejích prvních devadesáti procentech, před
+vynálezem zemědělství, žili naši předkové v malých kočujících tlupách lovců
+a sběračů, kde měli vysoce postavení jedinci (ti, kdo nejlépe dokázali ostatní
+přesvědčit ke spolupráci a uzavírat spojenectví) přístup k nejzdravějším
+partnerům a nejlepší potravě. Tento pud po vysokém postavení se z velké části
+projevuje podle toho, jak vzácné jsou zdroje potřebné k přežití.
+
+Většina uspořádání lidské společnosti je přizpůsobena obdobím nedostatku.
+V každém z nich existují jiné způsoby, jak dosáhnout vysokého postavení.
+
+Nejjednodušším uspořádáním je hierarchická velicí struktura. V ní jsou vzácné
+statky přidělovány jedinou ústřední autoritou za pomoci síly. Velicí struktury
+velmi špatně fungují ve velkých skupinách [Mal]; čím větší skupinu řídí, tím
+brutálněji a neefektivněji se chovají. Z tohoto důvodu hierarchické struktury
+v měřítku větším než široké rodiny takřka vždy existují jen jako paraziti na
+jiném, větším systému. Ve velicích strukturách je společenské postavení určeno
+přístupem k donucovacím prostředkům.
+
+Naše společnost je primárně založená na ekonomické směně. Je to sofistikované
+řešení situace nedostatku zdrojů, které na rozdíl od velicího modelu funguje
+dobře i ve velkém měřítku. Vzácné zdroje jsou přerozdělovány decentralizovaně
+pomocí obchodu a dobrovolné spolupráce (vlastně se ukazuje, že konkurenční tlak
+vede především k ochotě spolupracovat). Ve směnné ekonomice je společenské
+postavení určeno kontrolou věcí (ne nutně materiálních), které lze zužitkovat
+nebo zobchodovat.
+
+Většina lidí má v sobě implicitně mentální modely pro obě tyto situace a jejich
+možné kombinace. Vláda, armáda a organizovaný zločin jaou příklady velicích
+struktur parazitujících na širší směnné ekonomice, kterou nazýváme *volný trh*.
+Existuje ale i třetí model, radikálně odlišný od obou předchozích, který krom
+antropologů nikdo příliš nezná - darovací kultura.
+
+Darovací kultury jsou přizpůsobeny přebytku zdrojů, ne jejich nedostatku.
+Vznikají ve společnostech, které netrpí významnějším nedostatkem žádného
+z hmotných zdrojů potřebných k životu. Můžeme je najít mezi domorodými
+kulturami v oblastech s mírným klimatem a dostatkem potravy, a také v určitých
+sférách naší společnosti, zejména v showbyznysu a mezi velmi bohatými lidmi.
+
+Kde je přebytek, velicí struktury se těžko udržují a směnná ekonomika se stává
+bezúčelnou hrou. V darovacích kulturách je společenské postavení určeno nikoliv
+tím, co kdo kontroluje, ale tím, co kdo dává.
+
+Proto pořádá náčelník Kwakiutlů slavnosti u táborového ohně. Proto
+multimilionáři promyšleně a většinou veřejně podporují charitativní akce. A
+proto tráví hacker dlouhé hodiny prací na kvalitním kódu otevřeného softwaru.
+
+Protože pokud použijeme tento pohled, je zřetelné, že kultura hackerů je
+ve skutečnosti darovací kulturou. Je v ní k dispozici dostatek všech klíčových
+zdrojů "potřebných k přežití" - místa na disku, síly internetového připojení
+i výpočetních kapacit. Software se volně sdílí. Tento přebytek vede k situaci,
+kdy jediným dostupným měřítkem úspěchu je reputace napříč společenstvím.
+
+Tento poznatek sám o sobě však nestačí k vysvětlení všech znaků kultury
+hackerů. Crackeři a piráti mají také svou darovací kulturu, okupující stejný
+prostor v elektronickém světě, ale jejich chování je zcela odlišné. Skupinová
+mentalita je u nich výrazně silnější a uzavřenější než u hackerů. Místo sdílení
+znalostí si je pečlivě střeží; cracker bude daleko spíše distribuovat binární
+aplikace bez zdrojového kódu, než aby se podělil o tipy, jak k výsledku dospěl.
+(Pro pohled zevnitř tohoto společenství viz (todo LW)).
+
+Tím se ukazuje (jak by mělo být už shora zřejmé), že existuje více způsobů, jak
+se mohou darovací kultury organizovat. Historie a hodnoty hrají také velkou
+roli. Historii kultury hackerů jsem shrnul v *A Brief History of Hackerdom*
+(todo HH); a není žádným tajemstvím, jaký vliv měla na její současnou podobu.
+Hackeři vymezili svou kulturu několika zvolenými způsoby, jak mezi sebou
+soutěžit. Podobou této soutěže se zabývá zbytek tohoto eseje.

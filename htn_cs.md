@@ -207,7 +207,7 @@ užitečné, když si zde některá důležitější shrneme:
 - Rozšiřování změn v projektu bez spolupráce s jeho moderátory se potkává s
   odsouzením, vyjma speciálních případů, např. úprav umožňujících port.
 - Bez výslovného souhlasu dotyčného se nikdy nemažou jména z historie projektu
-  nebo seznamu přispěvatelů a udržovatelů *(maintainers)*.
+  nebo seznamu přispěvatelů a správců *(maintainers)*.
 
 Ve zbytku tohoto eseje prozkoumáme tato tabu a vlastnické zvyklosti podrobněji.
 Budeme zkoumat nejen to, jak fungují, ale i co prozrazují o mezilidské dynamice
@@ -233,7 +233,7 @@ Podle standardních licencí otevřeného softwaru jsou si všechny strany ve
 vývojové hře rovny;
 ale v praxi existuje široce uznávaný rozdíl mezi "oficiálními"
 záplatami, uznanými a integrovanými do vyvíjejícího se software veřejně
-uznanými udržovateli, a "divokými" *(rogue)* záplatami od třetích stran.
+uznanými správci, a "divokými" *(rogue)* záplatami od třetích stran.
 Divoké záplaty jsou výjimečné a zpravidla jim málokdo věří [RP].
 
 Je jednoduché dokázat, že veřejné šíření je tou zásadní otázkou. Zvyklosti
@@ -245,7 +245,7 @@ a soupeří tak s originálem, nabývá vlastnictví na významu.
 Obecně existují tři způsoby, jak se dostat k vlastnictví projektu otevřeného
 softwaru.
 První a nejvíce očividná je jej založit. Pokud má projekt od svého založení
-pouze jednoho udržovatele a ten je stále aktivní, zvyklost vůbec nedovolí
+pouze jednoho správce a ten je stále aktivní, zvyklost vůbec nedovolí
 položit otázku, kdo jej vlastní.
 
 Druhou možností je předání od předchozího vlastníka - tomu se někdy říká

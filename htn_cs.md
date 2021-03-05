@@ -47,7 +47,7 @@ Dalším rozdílem je míra nepřátelství ke komerčnímu softwaru a společno
 které jsou na trhu s ním považovány za dominantní.
 
 Člověk silně nepřátelský proti komerčnímu softwaru by mohl prohlásit: "Komerční
-software je krádež a křečkování *(hoarding)*. Píšu svobodný software, abych
+software je krádež a hamounění *(hoarding)*. Píšu svobodný software, abych
 toto zlo odstranil." Od mírně nepřátelského bychom mohli zaslechnout: "Komerční
 software jako takový je v pořádku, protože programátoři by měli dostat
 zaplaceno, ale firmy, které bohatnou na odfláknutých produktech a zneužívají
@@ -82,7 +82,7 @@ tak úmyslně vyhýbá).
 Z tohoto důvodu byla vně i uvnitř kultury otevřeného softwaru tendence ji
 identifikovat s horlivostí a antikomerčním postojem FSF. RMS sám odmítá, že by
 byl proti komerci, ale jeho cíle tak chápe většina lidí, včetně mnoha jeho
-nejhlasitějších příznivců. Jasná a mohutná kampaň FSF na "zastavení křečkování
+nejhlasitějších příznivců. Jasná a mohutná kampaň FSF na "zastavení hamounění
 softwaru" se nejvíce přiblížila k postavení oficiální ideologie hackerů a RMS
 k jejich ideovému vůdci.
 
@@ -102,15 +102,15 @@ propojené subkultury kolem Unixu a internetu před nástupem jeho komerčního
 využití.
 
 Postoje typického pragmatika jsou jen mírně zaměřené proti komerci a jeho
-hlavní výčitkou vůči korporátnímu světu není "křečkování" samo o sobě, jako
+hlavní výčitkou vůči korporátnímu světu není hamounění softwaru samo o sobě, jako
 spíše jeho perverzní odpor vůči přechodu na pokročilejší technologie kolem
 Unixu, otevřených standardů a otevřeného softwaru. Jestli pragmatik někoho
-nesnáší, je to - spíše než všeobecně "křečci" - král Kláda softwarového
+nesnáší, je to - spíše než všichni hamouni - král Kláda softwarového
 establishmentu, dříve IBM, dnes Microsoft.
 
 Pro pragmatiky je GPL důležitá jako nástroj spíše než jako cíl. Nevidí její
-hlavní hodnotu jako zbraně proti křečkování, ale jako důležitý prvek
-podporující sdílení softwaru a "tržišťových" (TODO ref) *(bazaar-mode)*
+hlavní hodnotu jako zbraně proti hamounění, ale jako důležitý prvek
+podporující sdílení softwaru a tržišťových
 komunit kolem něj. Pragmatik si více cení dobrých nástrojů a hraček, než že by
 odmítal komerci, a klidně bez ideologického problému použije kvalitní komerční
 software. Zároveň jej ale jeho zkušenost s otevřeným softwarem naučila na
@@ -157,8 +157,8 @@ odlišných od GPL.
 
 ## Prostopášná teorie, puritánská praxe
 
-Napříč všemi těmito změnami ale zůstávala shoda na tom, co svobodné software
-nebo otevřené software je. Nejvýraznější projev této shody můžeme
+Napříč všemi těmito změnami ale zůstávala shoda na tom, co svobodný software
+nebo otevřený software je. Nejvýraznější projev této shody můžeme
 nalézt v licencích otevřeného softwaru, kterých je mnoho, ale všechny mají
 zásadní společné prvky.
 
